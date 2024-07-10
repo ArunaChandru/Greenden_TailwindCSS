@@ -24,5 +24,5 @@ Greenden is a web-based application designed to promote and manage green initiat
 
 ## Demo
 
-Check out the live demo of the Greenden project [here](https://arunachandru.github.io/Greenden_Tailwind/).
+Check out the live demo of the Greenden project [here]( https://arunachandru.github.io/Greenden_TailwindCSS/).
 
